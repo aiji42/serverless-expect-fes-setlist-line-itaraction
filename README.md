@@ -12,7 +12,7 @@ Line BOT Itaraction of Expect Japanes Fes's Setlist
 
 ## Usage
 
-- LINE BOTを登録してアーティスト名をメッセージで送信
+- LINE BOTを登録してアーティスト名をメッセージで送信  
 ![project_preview.gif](./project_preview.gif)
 
 
@@ -30,7 +30,7 @@ Line BOT Itaraction of Expect Japanes Fes's Setlist
 
 ## Licence
 
-
+[MIT](https://github.com/aiji42/serverless-expect-fes-setlist-line-itaraction/blob/master/LICENSE)
 
 ## Author
 
