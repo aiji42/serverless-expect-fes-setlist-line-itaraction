@@ -3,7 +3,9 @@ Line BOT Itaraction of Expect Japanes Fes's Setlist
 
 ## Description
 
-アーティストごとにフェスのセトリを予想する LINE BOT
+アーティストごとにフェスのセトリを予想する serverless LINE BOT
+
+※[LiveFans](https://www.livefans.jp/)に掲載されている情報を使用しております。
 
 ## Requirement
 
